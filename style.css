@@ -21,6 +21,29 @@ img{
     padding: 2%;
     
 }
+.content {
+    padding-top: 2em;
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+  #about {
+    padding: 7em;
+  }
+  
+  .section {
+    min-height: 100vh;
+    max-width: 100vw;
+  }
 
 p{
     
