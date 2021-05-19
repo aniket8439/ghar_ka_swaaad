@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background: mistyrose;
    
@@ -14,7 +17,7 @@ h1{
 img{
     image-orientation: flip;
     margin-left: auto;
-    margin-right: auto;
+    margin-right:auto;
     
 }
 
