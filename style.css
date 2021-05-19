@@ -14,12 +14,16 @@ h1{
     color: aquamarine;
     margin-top: 5%;
 }
-img{
+#img{
     image-orientation: flip;
     margin-left: auto;
     margin-right:auto;
     padding: 2%;
     
+}
+.section{
+    min-width: 100vh;
+    max-width: 100vw;
 }
 
   
