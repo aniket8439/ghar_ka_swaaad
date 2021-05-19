@@ -54,24 +54,24 @@ h3{
 }
 h4{
     text-align: center;
-    
-    line-height: 48px;
+    font-size: 64px;
+    line-height: 64px;
     background: black;
     color: red;
     margin-top: 5%;
 }
 h5{
     text-align: center;
-    
-    line-height: 48px;
+    font-size: 64px;
+    line-height: 64px;
     background:aquamarine;
     color:black;
     margin-top: 5%;
 }
 h6{
     text-align: center;
-    
-    line-height: 48px;
+    font-size: 64px;
+    line-height: 64px;
     background:skyblue;
     color:blue;
     margin-top: 5%;
