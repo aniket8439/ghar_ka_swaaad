@@ -21,24 +21,9 @@ img{
     padding: 2%;
     
 }
-.content {
-    padding-top: 2em;
-    padding: 16px;
-  }
+
   
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .sticky + .content {
-    padding-top: 60px;
-  }
-  
-  #about {
-    padding: 7em;
-  }
+ 
   
   .section {
     min-height: 100vh;
@@ -114,13 +99,8 @@ li{
     font-weight: bold;
     margin-left: 3%;
 }
-footer {
-    color: black;
-    text-align: center;
-    background: #333;
-    margin: 0;
-    position: fixed;
 
-}
+
+
 
 
