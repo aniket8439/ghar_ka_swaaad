@@ -13,7 +13,8 @@ h1{
 }
 img{
     image-orientation: flip;
-    margin-left: 25%;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
