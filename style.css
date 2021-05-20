@@ -91,9 +91,14 @@ li{
 }
    
    
+footer {
+    color: #f2f2f2;
+    text-align: center;
+    background: #333;
+    margin: 0;
+    position: fixed;
 
-
-
+}
 
 
 
