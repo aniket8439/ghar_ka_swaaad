@@ -14,7 +14,7 @@ background-position: center;
     
 }
 .header {
-    
+    background-color: floralwhite;
    color: turquoise;
     min-height: 100vh;
     max-height: 100vh;
@@ -29,7 +29,7 @@ background-position: center;
   }
   .main_navigation {
     overflow: hidden;
-    background-color: #46bdc5;
+    background-color: aquamarine;
   }
   .main_navigation .ham {
     display: none;
@@ -45,7 +45,7 @@ background-position: center;
     font-weight: bold;
   }
   .main_navigation a:hover {
-    background-color: #267a80;
+    background-color: black;
     color: #ac1831;
     font-size: 20px;
     transition: 480ms;
