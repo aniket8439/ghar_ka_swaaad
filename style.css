@@ -14,7 +14,7 @@ background-position: center;
     
 }
 .header {
-    background-image: url(background_main.jpg);
+    background-image: url(background2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -141,6 +141,23 @@ li{
     font-family: cursive;
     text-decoration: underline;
     font-weight: bold;
+}
+h8{
+    text-align: start;
+    font-size: 34px;
+    line-height: 34px;
+    text-decoration-style: dashed;
+    
+    color:tan;
+    margin-top: 5%;
+}
+h9{
+    text-align: center;
+    font-size: 64px;
+    line-height: 64px;
+    background:black;
+    color:white;
+    margin-top: 5%;
 }
    
 
