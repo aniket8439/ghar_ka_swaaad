@@ -5,7 +5,7 @@ body{
     background: whitesmoke;
     margin: 0;
     width: 100%;
-    background-image: url(background.jpg);
+    background-image: url(background2.jpg);
     background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -133,6 +133,7 @@ h6{
 }
 li{
     font-size: 36px;
+    color: whitesmoke;
     text-emphasis-color: white;
     text-align: inherit;
     font-family: cursive;
