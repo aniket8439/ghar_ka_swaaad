@@ -14,7 +14,7 @@ background-position: center;
     
 }
 .header {
-    background-image: url(background.jpg);
+    background-image: url(background_main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
