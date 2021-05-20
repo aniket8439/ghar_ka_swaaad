@@ -91,7 +91,7 @@ p{
 }
 h2{
     text-align: start;
-    color: whitesmoke;
+    
     margin: 5%;
     text-underline-position: above;
     font-style: italic;
@@ -133,7 +133,7 @@ h6{
 }
 li{
     font-size: 36px;
-    color: whitesmoke;
+    
     text-emphasis-color: white;
     text-align: inherit;
     font-family: cursive;
