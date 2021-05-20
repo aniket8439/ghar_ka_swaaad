@@ -142,16 +142,9 @@ li{
     text-decoration: underline;
     font-weight: bold;
 }
-h8{
-    text-align: start;
-    font-size: 34px;
-    line-height: 34px;
-    text-decoration-style: dashed;
-    
-    color:tan;
-    margin-top: 5%;
-}
-h9{
+
+
+.fragment_heading{
     text-align: center;
     font-size: 64px;
     line-height: 64px;
