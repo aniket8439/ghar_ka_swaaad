@@ -14,7 +14,9 @@ background-position: center;
     
 }
 .header {
-    background-color: #46bdc5;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh;
     max-height: 100vh;
     padding-top: 50vh;
