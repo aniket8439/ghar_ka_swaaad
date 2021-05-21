@@ -14,7 +14,7 @@ background-position: center;
     
 }
 .header {
-    background-color: floralwhite;
+    background-color:thistle;
    color: turquoise;
     min-height: 100vh;
     max-height: 100vh;
@@ -29,7 +29,7 @@ background-position: center;
   }
   .main_navigation {
     overflow: hidden;
-    background-color: aquamarine;
+    background-color:rgb(29, 95, 248);
   }
   .main_navigation .ham {
     display: none;
