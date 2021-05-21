@@ -37,6 +37,8 @@ body{
 
 .one {
     width: 30px;
+    height: 3px;
+    background-color: chocolate;
 }
 .two{
     width: 20px;
