@@ -13,21 +13,9 @@ background-position: center;
    
     
 }
-.header {
-    background-image: url(background2.jpg);
-    background-size: cover;
-   color: turquoise;
-    min-height: 100vh;
-    max-height: 100vh;
-    padding-top: 50vh;
-    text-align: center;
-  }
-  .header #logo {
-    font-size: 120px;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    color: #267a80;
-    font-weight: 900;
-  }
+
+ 
+  
   .main_navigation {
     overflow: hidden;
     background-color:black;
