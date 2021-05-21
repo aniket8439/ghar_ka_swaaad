@@ -16,14 +16,7 @@ body:before{
     position: fixed;
     width: 100vw;
     height: 100vh;
-    background-image: url(background_main.jpg);
-    background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-filter: blur(10px);
-    -moz-filter: blur(10px);
-    filter: blur(10px); 
+   
 }
 
    .contact-form{
@@ -71,15 +64,13 @@ body:before{
     margin-bottom: 20px;
 }
 .contact-form input[type=email] {
-    height: 30px;
-       color: #fff;
-       font-size: 15px;
-       background: red;
-       cursor: pointer;
-       border-radius: 25px;
-       border: none;
-       outline: none;
-       margin-top: 15%;
+    border:none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 35px;
+    color: #fff;
+    font-size: 15px;
 }
 .contact-form input[type=password]{
     border:none;
