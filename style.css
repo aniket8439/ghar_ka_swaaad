@@ -20,61 +20,9 @@ body{
     background-size: cover;
 
 }
-.wrapper{
-    width: 35px;
-    height: 30px;
-    background-color: white;
-    position: fixed;
-    top: 50px;
-    left: 50px;
-    cursor: pointer;
-   
-    margin: 5px 0;
-    border-radius: 100px;
-    transition: 0.3s;
-}
-.navbar{
-    width: 300px;
-    height: 100%;
-    background-color: #262626;
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-border-radius: 20% 0 0 60%;
 
 
-}
-.nav div{
-    height: 4px;
-    background-color : white;
-    margin: 5px 0;
-    border-radius: 100px;
-    transition: 0.3s;
-
-}
-
-.nav{
-    width: 30px;
-    display: block;
-    margin: 1em 0 0 1em;
-}
-.one {
-    width: 30px;
-}
-.two{
-    width: 20px;
-}
-.three{
-    width: 30px;
-}
-.nav:hover div{
-    width: 30px;
-}
-
-.wrapper-menu{
+.hamburger-menu{
     width: 35px;
     height: 30px;
     position: fixed;
@@ -86,6 +34,15 @@ border-radius: 20% 0 0 60%;
     justify-content: space-around;
 }
 
+.one {
+    width: 30px;
+}
+.two{
+    width: 20px;
+}
+.three{
+    width: 30px;
+}
    .contact-form{
      position: absolute;
      top: 50%;
