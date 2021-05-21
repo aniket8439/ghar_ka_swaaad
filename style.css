@@ -29,7 +29,7 @@ background-position: center;
   }
   .main_navigation {
     overflow: hidden;
-    background-color:rgb(29, 95, 248);
+    background-color:black;
   }
   .main_navigation .ham {
     display: none;
@@ -45,7 +45,7 @@ background-position: center;
     font-weight: bold;
   }
   .main_navigation a:hover {
-    background-color: black;
+    background-color: white;
     color: #ac1831;
     font-size: 20px;
     transition: 480ms;
