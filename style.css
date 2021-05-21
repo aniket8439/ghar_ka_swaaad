@@ -47,21 +47,22 @@ body{
     transition: transform 0.3s;
 }
 
-.one {
+.line {
     width: 30px;
     height: 3px;
     background-color: chocolate;
 }
-.two{
-    width: 20px;
-    height: 3px;
-    background-color: chocolate;
+
+.line-1{
+    transform: rotateZ(-45deg) translate(-8px, -6px);
 }
-.three{
-    width: 30px;
-    height: 3px;
-    background-color: chocolate;
+.line-2{
+    opacity: 0;
 }
+.line-3{
+     transform: rotateZ(45deg) translate(-8px, 6px);
+}
+
 .nav-list{
     text-align: right;
 
