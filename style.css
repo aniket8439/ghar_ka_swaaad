@@ -44,7 +44,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    transition: transform 0.3s;
+    
 }
 
 .line {
@@ -182,40 +182,6 @@ body{
    }
  
   
-  .main_navigation {
-    overflow: hidden;
-    background-color:black;
-  }
-  .main_navigation .ham {
-    display: none;
-  }
-  .main_navigation a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    font-weight: bold;
-  }
-  .main_navigation a:hover {
-    background-color: white;
-    color: #ac1831;
-    font-size: 20px;
-    transition: 480ms;
-  }
-  .main_navigation a:hover .active {
-    font-size: 20px;
-  }
-  .main_navigation a.active {
-    background-color: #ac1831;
-    padding-left: 3em;
-    padding-right: 2em;
-    border-bottom-right-radius: 20em;
-    border-top-right-radius: 20em;
-    color: white;
-  }
 
 
 
