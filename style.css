@@ -14,7 +14,8 @@ background-position: center;
     
 }
 .header {
-    background-color:thistle;
+    background-image: url(background2.jpg);
+    background-size: cover;
    color: turquoise;
     min-height: 100vh;
     max-height: 100vh;
