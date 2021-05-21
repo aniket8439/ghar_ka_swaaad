@@ -29,12 +29,16 @@ body{
     background-color: #262626;
     position: fixed;
     top: 0;
-    right: 0;
+    right: -300px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 20% 0 0 60%;
+    transition: right .8s cubic-bezier(1,0,0,1);
 
+}
+.change{
+    right: 0;
 }
 
 .hamburger-menu{
@@ -54,16 +58,17 @@ body{
     width: 30px;
     height: 3px;
     background-color: chocolate;
+    transition: all 0.8s;
 }
 
-.line-1{
-    transform: rotateZ(-45deg) translate(-8px, 6px);
+.change .line-1{
+    transform: rotateZ(-405deg) translate(-8px, 6px);
 }
-.line-2{
+.change .line-2{
     opacity: 0;
 }
-.line-3{
-     transform: rotateZ(45deg) translate(-8px, -6px);
+.change .line-3{
+     transform: rotateZ(405deg) translate(-8px, -6px);
 }
 
 .nav-list{
