@@ -11,13 +11,6 @@ body{
 background-size: cover;
 background-position: center;
 }
-body:before{
-    content: '';
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
-   
-}
 
    .contact-form{
      position: absolute;
@@ -48,7 +41,7 @@ body:before{
     margin: 0;
     padding: 0 0 20px;
     color:  #fff;
-    text-align: center;
+    text-align: center center;
     text-transform: uppercase;
 
 
