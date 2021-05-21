@@ -39,12 +39,12 @@ body{
     
     position: fixed;
     top: 50px;
-    left: 50px;
+    right: 50px;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    transition: 0.3s;
+    transition: transform 0.3s;
 }
 
 .one {
