@@ -25,7 +25,7 @@ body{
 .hamburger-menu{
     width: 35px;
     height: 30px;
-    background-color: red;
+    
     position: fixed;
     top: 50px;
     left: 50px;
@@ -42,9 +42,13 @@ body{
 }
 .two{
     width: 20px;
+    height: 3px;
+    background-color: chocolate;
 }
 .three{
     width: 30px;
+    height: 3px;
+    background-color: chocolate;
 }
    .contact-form{
      position: absolute;
