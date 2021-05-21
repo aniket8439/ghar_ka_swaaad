@@ -25,6 +25,7 @@ body{
 .hamburger-menu{
     width: 35px;
     height: 30px;
+    background-color: red;
     position: fixed;
     top: 50px;
     left: 50px;
