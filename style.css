@@ -57,13 +57,13 @@ body{
 }
 
 .line-1{
-    transform: rotateZ(-45deg) translate(-8px, -6px);
+    transform: rotateZ(-45deg) translate(-8px, 6px);
 }
 .line-2{
     opacity: 0;
 }
 .line-3{
-     transform: rotateZ(45deg) translate(-8px, 6px);
+     transform: rotateZ(45deg) translate(-8px, -6px);
 }
 
 .nav-list{
@@ -82,6 +82,7 @@ body{
     letter-spacing: 1px;
     text-transform: uppercase;
     position: relative;
+    padding: 3px 0;
 }
 
 .nav-link::before,
