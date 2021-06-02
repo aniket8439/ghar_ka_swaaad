@@ -305,9 +305,11 @@ h8{
     width: extend-to-zoom;
     zoom: 1.0;
 }
-@media screen and (max-width: 992px) {
-    body {
-      background-color: white;
+@media screen and (max-width: 600px), screen\0 {
+    .image_left, .image_right{
+        float: initial;
+        width: 100%;
+        margin: 0px;
     }
   }
   
