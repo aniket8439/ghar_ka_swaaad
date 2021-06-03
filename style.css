@@ -305,7 +305,7 @@ h8{
     width: extend-to-zoom;
     zoom: 1.0;
 }
-@media screen and (max-width: 600px), screen\0 {
+@media screen and (max-width: 500px), screen\0 {
     .image_left, .image_right{
         float: initial;
         width: 100%;
