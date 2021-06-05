@@ -45,6 +45,7 @@ body{
 }
 
 .hamburger-menu{
+    overflow-x: hidden;
     width: 35px;
     height: 30px;
     position: fixed;
